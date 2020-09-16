@@ -11,7 +11,7 @@ import retrofit2.http.POST;
 public interface IFCMService {
     @Headers({
         "Content-Type:application/json",
-        "Authorization:key=AAAA4zxaLrc:APA91bH_nRR08YI7Xi8rFMlzAWTR9d5FBmEJR4h-RZ8a_yo2EbmRFqEAlcRID6DjpVy4zIWSwhhVmvsD-jVPZrkuaoifMldgxmSZ5OKzBzSMcIRI0iyD74DSwo36vEsHiwTCXg2i4GUa3YcUYK0137uaTfzIPzjzHw"
+        "Authorization:key=AAAAYErQOj4:APA91bHRqmjvhI7-bFU1Q8vHdosyH5xmu0jL7mXG32cgwvluIjTR67I8GEKp15al25O9pbvO4F-p92-McWzM_8dJ42wyYaaUNwHSWG96gkw9lXrZ9Z-BA5gIEAGA_uD1rquqthoMVLKf"
     })
     @POST("fcm/send")
     Call<FCMResponse> sendMessage(@Body Sender body);
