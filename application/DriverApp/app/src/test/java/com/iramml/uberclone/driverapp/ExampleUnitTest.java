@@ -1,4 +1,4 @@
-package com.iramml.uberclone.driverapp;
+package com.ubclone.test;
 
 import org.junit.Test;
 

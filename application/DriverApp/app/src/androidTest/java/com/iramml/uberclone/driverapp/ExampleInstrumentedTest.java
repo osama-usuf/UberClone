@@ -1,4 +1,4 @@
-package com.iramml.uberclone.driverapp;
+package com.ubclone.test;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

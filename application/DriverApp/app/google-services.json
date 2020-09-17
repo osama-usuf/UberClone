@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "413572020798-6acpr9jef07jjh7pi23o02mo8149fs4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ubclone.test",
+            "certificate_hash": "44660d327c7c248f0ce812232a6100f2a3a835d4"
+          }
+        },
+        {
           "client_id": "413572020798-196dcabm0dtp427lg5gfpc0sqii1475q.apps.googleusercontent.com",
           "client_type": 3
         }
